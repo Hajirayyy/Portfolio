@@ -104,9 +104,3 @@ The website adapts to different screen sizes:
 - Checks that you've filled in all fields correctly
 - Shows success or error messages
 - Clears the form after you submit
-
-## License
-
-This project is free to use for educational purposes.
-
-Made by Alex Chen, 2026
